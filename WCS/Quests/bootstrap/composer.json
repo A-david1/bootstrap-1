@@ -1,0 +1,6 @@
+{
+    "name": "antoine/bootstrap",
+    "require": {
+        "twbs/bootstrap": "5.0.0-beta2"
+    }
+}
